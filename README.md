@@ -1,8 +1,10 @@
 15/09/2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: jchayes@pacbell.net, peals69@yahoo.com
-At: 2026-09-15 21:47:47
-Id: rT39N8ch
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: jdesertmannings@aol.com, karen8743@aol.com
+At: 2026-09-15 21:48:26
+Id: 2R9jhHTl
